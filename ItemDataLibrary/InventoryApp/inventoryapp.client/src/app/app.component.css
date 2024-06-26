@@ -1,0 +1,22 @@
+:host {
+    max-width: 1280px;
+    padding: 2rem;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+table {
+    margin: 0 auto;
+}
+.card {
+  margin-bottom: 30px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
