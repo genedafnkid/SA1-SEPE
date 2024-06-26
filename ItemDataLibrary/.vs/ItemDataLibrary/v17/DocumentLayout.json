@@ -1,0 +1,762 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\item.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\item.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\controllers\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\controllers\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\controllers\\itemcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\controllers\\itemcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|solutionrelative:itemdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ItemDB/True/SqlTable/dbo.Item.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\item.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\item.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemdatalibrary\\database\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|solutionrelative:itemdatalibrary\\database\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemdatalibrary\\models\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|solutionrelative:itemdatalibrary\\models\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemdatalibrary\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|solutionrelative:itemdatalibrary\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemdatalibrary\\models\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171724B2-AE37-4EC8-B66E-3011D140005E}|ItemDataLibrary\\ItemDataLibrary.csproj|solutionrelative:itemdatalibrary\\models\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\inventoryapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\inventoryapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\jwt.interceptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\jwt.interceptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemapi\\controllers\\itemcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\controllers\\itemcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\inventoryapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\inventoryapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.server\\inventoryapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{88BAEC62-0E54-4485-A295-6CC6408C73EE}|InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj|solutionrelative:inventoryapp\\inventoryapp.server\\inventoryapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemapi\\itemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\itemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemapi\\itemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\itemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\inventoryapp.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\inventoryapp.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\itemapi\\itemapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2E116998-12D2-4C4C-AC07-73D39EBB53BA}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\itemapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryapp\\inventoryapp.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F3F322D5-280A-4CED-9988-9A3F05DDEAF6}|InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj|solutionrelative:inventoryapp\\inventoryapp.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101B258A-50A9-4491-B6AC-11C9A970AD98}|InventoryUI\\InventoryUI.csproj|c:\\users\\sepeg\\source\\repos\\itemdatalibrary\\inventoryui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101B258A-50A9-4491-B6AC-11C9A970AD98}|InventoryUI\\InventoryUI.csproj|solutionrelative:inventoryui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemList.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Controllers\\ItemList.cs",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\Controllers\\ItemList.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Controllers\\ItemList.cs",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\Controllers\\ItemList.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:10:01.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add-item.component.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T18:21:46.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\auth.service.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\auth.service.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\auth.service.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\auth.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T18:24:35.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "item.service.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item.service.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\item.service.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item.service.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\item.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T18:15:35.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "item-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T21:36:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "add-item.component.html",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.html",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.html",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.html",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T18:22:01.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "item-list.component.css",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.css",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.css",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.css",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T21:54:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "item-list.component.html",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.html",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.html",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.html",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.html",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T21:32:42.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "item-list.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.spec.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.spec.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.spec.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\item-list\\item-list.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T22:07:21.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Controllers\\ItemCRUD.cs",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\Controllers\\ItemCRUD.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Controllers\\ItemCRUD.cs",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\Controllers\\ItemCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:44:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\appsettings.json",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T17:35:03.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SqlData.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Data\\SqlData.cs",
+              "RelativeDocumentMoniker": "ItemDataLibrary\\Data\\SqlData.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Data\\SqlData.cs",
+              "RelativeToolTip": "ItemDataLibrary\\Data\\SqlData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:23:14.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Item [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ItemDB/True/SqlTable/dbo.Item.sql",
+              "ToolTip": "dbo.Item [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-25T23:07:04.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "item.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item.service.spec.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\item.service.spec.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\item.service.spec.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\item.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T22:07:54.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "add-item.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.spec.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.spec.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.spec.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T18:30:19.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Database\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "ItemDataLibrary\\Database\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Database\\SqlDataAccess.cs",
+              "RelativeToolTip": "ItemDataLibrary\\Database\\SqlDataAccess.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:50:29.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListItem.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Models\\ListItem.cs",
+              "RelativeDocumentMoniker": "ItemDataLibrary\\Models\\ListItem.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Models\\ListItem.cs",
+              "RelativeToolTip": "ItemDataLibrary\\Models\\ListItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:50:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "ItemDataLibrary\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Models\\ItemModel.cs",
+              "RelativeToolTip": "ItemDataLibrary\\Models\\ItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:27:28.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddItem.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Models\\AddItem.cs",
+              "RelativeDocumentMoniker": "ItemDataLibrary\\Models\\AddItem.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemDataLibrary\\Models\\AddItem.cs",
+              "RelativeToolTip": "ItemDataLibrary\\Models\\AddItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:50:13.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InventoryApp.Server.http",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\InventoryApp.Server.http",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\InventoryApp.Server.http",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\InventoryApp.Server.http",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\InventoryApp.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-25T17:35:29.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Program.cs",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwD8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:27:37.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "add-item.component.css",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.css",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.css",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.css",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\add-item\\add-item.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T18:30:15.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T18:20:45.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Startup.cs",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\Startup.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:29:22.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ItemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\Program.cs",
+              "RelativeToolTip": "ItemAPI\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:18:54.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T22:36:10.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T18:43:28.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T17:17:39.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "jwt.interceptor.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\jwt.interceptor.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\jwt.interceptor.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\jwt.interceptor.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\jwt.interceptor.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T18:25:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T17:17:16.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ItemCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\Controllers\\ItemCRUD.cs",
+              "RelativeDocumentMoniker": "ItemAPI\\Controllers\\ItemCRUD.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\Controllers\\ItemCRUD.cs",
+              "RelativeToolTip": "ItemAPI\\Controllers\\ItemCRUD.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:25:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InventoryApp.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T17:30:13.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InventoryApp.Server",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj",
+              "RelativeDocumentMoniker": "InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj",
+              "RelativeToolTip": "InventoryApp\\InventoryApp.Server\\InventoryApp.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T22:09:05.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T18:39:07.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T18:52:46.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\index.html",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\index.html",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T17:11:41.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ItemAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\ItemAPI.csproj",
+              "RelativeDocumentMoniker": "ItemAPI\\ItemAPI.csproj",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\ItemAPI.csproj",
+              "RelativeToolTip": "ItemAPI\\ItemAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T17:31:01.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ItemAPI.http",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\ItemAPI.http",
+              "RelativeDocumentMoniker": "ItemAPI\\ItemAPI.http",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\ItemAPI.http",
+              "RelativeToolTip": "ItemAPI\\ItemAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-25T17:39:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "inventoryapp.client.esproj",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\inventoryapp.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-25T17:36:20.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ItemAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ItemAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T17:34:52.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ItemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\appsettings.json",
+              "RelativeToolTip": "ItemAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T16:16:03.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ItemAPI",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\ItemAPI.csproj",
+              "RelativeDocumentMoniker": "ItemAPI\\ItemAPI.csproj",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\ItemAPI\\ItemAPI.csproj",
+              "RelativeToolTip": "ItemAPI\\ItemAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T17:27:46.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "InventoryApp\\inventoryapp.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryApp\\inventoryapp.client\\src\\main.ts",
+              "RelativeToolTip": "InventoryApp\\inventoryapp.client\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T17:16:26.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryUI\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryUI\\Program.cs",
+              "ToolTip": "C:\\Users\\sepeg\\source\\repos\\ItemDataLibrary\\InventoryUI\\Program.cs",
+              "RelativeToolTip": "InventoryUI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:44:49.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
