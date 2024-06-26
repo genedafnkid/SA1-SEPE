@@ -63,6 +63,7 @@
     <Build Include="Tables\Item.sql" />
     <Build Include="Stored Procedures\Item_Add.sql" />
     <Build Include="Stored Procedures\Item_List.sql" />
+    <Build Include="Stored Procedures\Item_Delete.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DB Project.refactorlog" />

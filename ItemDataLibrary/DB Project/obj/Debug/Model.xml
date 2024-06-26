@@ -278,13 +278,61 @@ end]]></Value>
 				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[Item_Add]&#xD;&#xA;&#x9;@Name NVARCHAR(50),&#xD;&#xA;    @Code NVARCHAR(10),&#xD;&#xA;    @Brand NVARCHAR(50),&#xD;&#xA;    @UnitPrice DECIMAL(10, 2)&#xD;&#xA;AS" />
 			</Annotation>
 		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[Item_Delete]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+BEGIN
+    DELETE FROM dbo.Item WHERE Id = @Id
+END]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Item]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Item].[Id]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Item_Delete].[@Id]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Parameters">
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[Item_Delete].[@Id]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[int]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="102" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE dbo.Item_Delete&#xD;&#xA;    @Id INT&#xD;&#xA;AS" />
+			</Annotation>
+		</Element>
 		<Element Type="SqlProcedure" Name="[dbo].[Item_List]">
 			<Property Name="BodyScript">
 				<Value><![CDATA[
 begin
 	set nocount on;
 
-	SELECT [i].[productName], [i].[Brand], [i].[Code], [i].[UnitPrice]
+	SELECT [i].[Id], [i].[productName], [i].[Brand], [i].[Code], [i].[UnitPrice]
 	FROM dbo.Item i
 end]]></Value>
 			</Property>
@@ -292,6 +340,9 @@ end]]></Value>
 			<Relationship Name="BodyDependencies">
 				<Entry>
 					<References Name="[dbo].[Item]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Item].[Id]" />
 				</Entry>
 				<Entry>
 					<References Name="[dbo].[Item].[productName]" />
@@ -312,7 +363,7 @@ end]]></Value>
 				</Entry>
 			</Relationship>
 			<Annotation Type="SysCommentsObjectAnnotation">
-				<Property Name="Length" Value="157" />
+				<Property Name="Length" Value="167" />
 				<Property Name="StartLine" Value="1" />
 				<Property Name="StartColumn" Value="1" />
 				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[Item_List]&#xD;&#xA;AS" />

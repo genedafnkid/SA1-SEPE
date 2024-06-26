@@ -31,5 +31,10 @@ namespace ItemDataLibrary.Data
         {
             return _db.LoadData<ListItem, dynamic>("dbo.Item_List", new { }, connectionStringName, true).ToList();
         }
+
+        public void DeleteItem(int id)
+        {
+            _db.SaveData<dynamic>("dbo.Item_Delete", new { Id = id }, connectionStringName, true);
+        }
     }
 }

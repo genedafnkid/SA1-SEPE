@@ -3,6 +3,6 @@ AS
 begin
 	set nocount on;
 
-	SELECT [i].[productName], [i].[Brand], [i].[Code], [i].[UnitPrice]
+	SELECT [i].[Id], [i].[productName], [i].[Brand], [i].[Code], [i].[UnitPrice]
 	FROM dbo.Item i
 end
